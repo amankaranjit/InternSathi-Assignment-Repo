@@ -1,0 +1,30 @@
+.category_wrapper{
+    margin: 40px 0px;
+}
+
+.category_wrapper h2{
+    padding-left: 8px;
+    font-weight: 800;
+}
+.category_list{
+    margin-top: 20px;
+    background-color: #ededed;
+    padding: 30px;
+    border-radius: 4px;
+}
+.category_list h3{
+    font-weight: 800;
+    padding-bottom: 12px;
+}
+.category_list p{
+    padding-bottom: 0;
+    margin: 0;
+    line-height: 1.8;
+    color: rgb(90, 88, 88);
+    font-weight: 600;
+}
+
+.row{
+    margin: 0;
+    padding: 0;
+}

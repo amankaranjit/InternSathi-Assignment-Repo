@@ -1,0 +1,10 @@
+.navbar-brand {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.nav-item {
+    padding: 12px;
+    font-weight: bold;
+}
+
